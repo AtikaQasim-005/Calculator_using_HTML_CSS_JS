@@ -22,22 +22,19 @@ The Calculator project is a web-based application designed to perform basic arit
    ```bash
    git clone https://github.com/AtikaQasim-005/Calculator_using_HTML_CSS_JS.git
    ```
-2. Open the project in Visual Studio Code:
-   ```bash
-   cd calculator
-   code .
-   ```
-3. Install the "Live Preview" extension:
+2. Install the "Live Preview" extension:
    - Go to the Extensions view by clicking the Extensions icon in the Sidebar or pressing `Ctrl+Shift+X`.
    - Search for "Live Preview" by Microsoft and install it.
 
 ## Usage
 ### Running the Project
 1. Open the project in Visual Studio Code.
-2. Start the Live Preview:
+2. Open HTML file from the project.
+3. Start the Live Preview:
    - Click on the Live Preview button in the top right corner of the editor.
    - If you want to see the preview on your web browser then you have to click on the button on top right of the live preview window and click on "Open in Browser".
-3. The project will open in your default web browser.
+4. The project will open in your default web browser.
+
 
 ### Performing Calculations
 - Enter the numbers and select the desired arithmetic operation (addition, subtraction, multiplication, division) using the calculator interface.
